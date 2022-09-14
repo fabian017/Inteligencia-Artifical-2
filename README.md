@@ -7,10 +7,15 @@ Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad
 # Modelos
 
 - Modelo CNN
+
 - VGG19,InceptionResNetV2,EfficientNetB3
+
 -Autoencoders
+
 -GNB
+
 -RF
+
 -SVM
 
 # Integrantes
