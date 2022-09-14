@@ -31,3 +31,6 @@ Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad
 
 # Notebook
 - https://colab.research.google.com/drive/1CKr5eA08Nc4GssaKXSCj1ni7Ykv3Ty24?usp=sharing
+
+# Repositorio
+- https://github.com/fabian017/Inteligencia-Artifical-2.git
