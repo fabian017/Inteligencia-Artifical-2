@@ -20,8 +20,11 @@ Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad
 
 # Integrantes
 
--Maria Paula Rodriguez
+- Maria Paula Rodriguez
 
--Jose Fabian Jimenez
+- Jose Fabian Jimenez
 
--Jorge Sandoval
+- Jorge Sandoval
+
+# Video
+- https://youtu.be/zYAhMFVHFlk
