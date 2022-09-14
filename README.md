@@ -28,3 +28,6 @@ Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad
 
 # Video
 - https://youtu.be/zYAhMFVHFlk
+
+# Notebook
+- https://colab.research.google.com/drive/1CKr5eA08Nc4GssaKXSCj1ni7Ykv3Ty24?usp=sharing
