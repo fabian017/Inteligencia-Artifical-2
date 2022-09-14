@@ -1,10 +1,11 @@
+# Modelos de deep learning para la clasificación de cáncer pulmonar
+
+
 ![Image text](https://github.com/fabian017/Inteligencia-Artifical-2/blob/main/banner-ia2.png?raw=true)
-# Integrantes
 
-- Maria Paula Rodriguez, Jose Fabian Jimenez, Jorge Sandoval
+Maria Paula Rodriguez, Jose Fabian Jimenez, Jorge Sandoval
 
-# Inteligencia-Artifical-2
-Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad Industrial de Santander-
+# Con el desarrollo de este proyecto se busca crear una ayuda para los profesionales de la salud en la detección de cáncer pulmonar no microcítico.
 
 # Dataset
 - https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
