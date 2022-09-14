@@ -10,13 +10,13 @@ Repositorio destinado para el proyecto de Inteligencia artificial 2, Universidad
 
 - VGG19,InceptionResNetV2,EfficientNetB3
 
--Autoencoders
+- Autoencoders
 
--GNB
+- GNB
 
--RF
+- RF
 
--SVM
+- SVM
 
 # Integrantes
 
